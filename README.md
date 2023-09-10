@@ -35,3 +35,6 @@ Update all *.samples files with the correct information
 Run the app:
 
 > flutter run
+
+### Design Credits:
+https://www.figma.com/file/WTI9tSXtwpOdqv1RjVcpH9/DayTask---Task-Management-App-UI-Kit-(Community)?type=design&mode=design&t=TqZE7r3LT5T7YDZu-0

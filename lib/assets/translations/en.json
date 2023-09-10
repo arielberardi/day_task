@@ -1,0 +1,93 @@
+{
+    "appName": "DayTask",
+    "signIn": "Sign In",
+    "signOut": "Sign Out",
+    "signUp": "Sign Up",
+    "divider": "Or continue with",
+    "close": "Close",
+    "google": "Google",
+    "facebook": "Facebook",
+    "errors": {
+        "general": "Something went worng, please try again.",
+        "cancelled": "Operation was cancelled.",
+        "emailNotVerified": "Account not verified, please check your inbox.",
+        "userNotFound": "There is no user corresponding to the given email.",
+        "wrongPassword": "The password is incorrect for the given email.",
+        "userDisabled": "User corresponding to the given action code has been disabled.",
+        "emailAlreadyInUse": "Already exists an account with the given email address."
+    },
+    "form": {
+        "fullName": "Full Name *",
+        "email": "Email address *",
+        "password": "Password *",
+        "search": "Search",
+        "errors": {
+            "required": "{} is required.",
+            "invalidFormat": "Invalid format.",
+            "minLength": "Must be at least {} characters long.",
+            "password": "Password must have:\nA number\nA symbol\nA capital letter",
+            "minWords": "Must be at least {} words",
+            "requiredChecked": "{} must be accepted."
+        }
+    },
+    "components": {
+        "teamMembers": "Team Members",
+        "taskCard": {
+            "completed": "Completed",
+            "progress": "Progress"
+        },
+        "projectCard": {
+            "dueOn": "Due On"
+        }
+    },
+    "pages": {
+        "welcome": {
+            "title": "Manage your Tasks with",
+            "button": "Let's start"
+        },
+        "signIn": {
+            "title": "Welcome back!",
+            "forgotPassword": "Forgot password?",
+            "notRegistered": "Don't have an account? "
+        },
+        "signUp": {
+            "title": "Create your new account",
+            "toc": "I have read & agreed to ",
+            "tocLink": "Privacy Policy, Terms and Conditions",
+            "alreadyAccount": "Already have an account? "
+        },
+        "forgotPassword": {
+            "title": "Forgot password?",
+            "instructions": "Please enter your email address, we'll send you the instructions.",
+            "button": "Reset password"
+        },
+        "home": {
+            "welcomeBack": "Welcome back!",
+            "completedTasks": "Completed Tasks",
+            "emptyTasks": "You don't have any ongoing tasks!",
+            "ongoingProjects": "Ongoing Projects",
+            "emptyProjects": "You don't have any ongoing projects!",
+            "seeAll": "See All"
+        }
+    },
+    "dialogs": {
+        "email": {
+            "title": "Email sent!",
+            "body": "Please check your inbox for the email and follow the instructions."
+        },
+        "error": {
+            "title": "Invalid Error"
+        },
+        "googleAuth": {
+            "title": "Google Authentication"
+        },
+        "facebookAuth": {
+            "title": "Facebook Authentication"
+        }
+    },
+    "database": {
+        "erros": {
+            "notFound": "{} not found"
+        }
+    }
+}

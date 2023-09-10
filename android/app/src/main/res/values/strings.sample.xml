@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">YOUR APP ID</string>
+    <string name="fb_login_protocol_scheme">fbYOUR APP ID</string>
+    <string name="facebook_client_token">YOUR CLIENT TOKEN</string>
+</resources>
